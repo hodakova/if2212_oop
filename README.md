@@ -1,2 +1,2 @@
-# if2212_oop
-praktikum IF2212 Pemrograman Berorientasi Objek STI'22
+# IF2212 Object Oriented Programming IST'22
+- practicum
